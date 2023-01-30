@@ -28,6 +28,7 @@ button:hover{
 .card{
     width: calc(100% / 5 - 10px);
     height: calc(100% / 3 -10px);
+    min-width: 190px;
     position: relative;
     margin: 5px;
 }
